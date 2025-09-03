@@ -1,4 +1,4 @@
-## HELLO WORLD <img width="120" height="120" alt="17568882400244753954860362101175" src="https://github.com/user-attachments/assets/fcd0c008-1406-494f-b86d-d6d33038a802" />
+## HELLO WORLD <img width="50" height="50" alt="17568882400244753954860362101175" src="https://github.com/user-attachments/assets/fcd0c008-1406-494f-b86d-d6d33038a802" />
 
 
 !--
