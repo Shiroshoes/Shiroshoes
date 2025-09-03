@@ -4,11 +4,9 @@
 !--
 My name: **Jeo-Criz Izzack E. Perdio** is a ✨ _special_ ✨
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Sumnotes with my Peers
 - 🌱 I’m currently learning Python/ C#/ SQL/ JavaScript/ R
-- 🐕 I’m looking for help with Mr Peabody
+- 🐕 I’m looking for help with Mr.Peabody
 - 🗻 How to reach me: jeocriz@gmail.com
 - 🗣️ Pronouns: He (HEHEHEHEHE 😼) 
 - ⚡ Fun fact: The term **Computer But** came from actual insect found inside the computer messing the system
