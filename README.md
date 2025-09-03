@@ -17,7 +17,6 @@
 - 🏫 Currently studying at **BPSU** as a **Data Science Student**
 - 🔭 Currently working on **Sumnotes** with my peers  
 - 🐕 Looking for help with **Mr. Peabody**  
-- 🗻 Reach me at: **jeocriz@gmail.com**  
 - 🗣️ Pronouns: **He (HEHEHEHEHE 😼)**  
 - ⚡ Fun fact: The term *computer bug* came from an actual insect found inside a computer messing up the system!  
 
