@@ -32,11 +32,10 @@ My name is **Jeo-Criz Izzack E. Perdio**, a 📊 **Data Science Student** 🦠
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiroshoes&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shiroshoes&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+<p align="center">   
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiroshoes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiroshoes&theme=tokyonight" alt="GitHub Streak" width="48%"/> 
 </p>
 
 ---
