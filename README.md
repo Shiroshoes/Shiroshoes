@@ -1,16 +1,18 @@
 ## 👋 HELLO WORLD <img width="25" height="25" alt="icon" src="https://github.com/user-attachments/assets/fcd0c008-1406-494f-b86d-d6d33038a802" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=📊+Data+Science+Student;💻+AI+Enthusiast;⚡+Software+Developer;🌱+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Jeo-Criz+Izzack+E.+Perdio" alt="Animated Name" />
 </p>
 
-My name is **Jeo-Criz Izzack E. Perdio**, a 📊 **Data Science Student** 🦠  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=📊+Data+Science+Student;💻+AI+Enthusiast;⚡+Software+Developer;🌱+Lifelong+Learner" alt="Typing Animation" />
+</p>  
 
 ---
 
 ### 🌟 About Me  
+- 🏫 Currently studying at **BPSU** as a **Data Science Student**
 - 🔭 Currently working on **Sumnotes** with my peers  
-- 🌱 Learning **Python, C#, SQL, JavaScript, R**  
 - 🐕 Looking for help with **Mr. Peabody**  
 - 🗻 Reach me at: **jeocriz@gmail.com**  
 - 🗣️ Pronouns: **He (HEHEHEHEHE 😼)**  
