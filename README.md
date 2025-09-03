@@ -1,7 +1,7 @@
 ## 👋 HELLO WORLD <img width="25" height="25" alt="icon" src="https://github.com/user-attachments/assets/fcd0c008-1406-494f-b86d-d6d33038a802" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=📊+Data+Science+Student;💻+AI+Enthusiast;⚡+Software+Developer;🌱+Lifelong+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=📊+Data+Science+Student;💻+AI+Enthusiast;⚡+Software+Developer;🌱+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 My name is **Jeo-Criz Izzack E. Perdio**, a 📊 **Data Science Student** 🦠  
@@ -20,7 +20,7 @@ My name is **Jeo-Criz Izzack E. Perdio**, a 📊 **Data Science Student** 🦠
 
 ### 🛠️ Tech Stack  
 
-💡 Tools & languages I use (as **badges**):  
+💡 Tools & languages I use:  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
