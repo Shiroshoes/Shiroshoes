@@ -9,5 +9,5 @@ My name: **Jeo-Criz Izzack E. Perdio** is a ✨ _special_ ✨
 - 🐕 I’m looking for help with Mr.Peabody
 - 🗻 How to reach me: jeocriz@gmail.com
 - 🗣️ Pronouns: He (HEHEHEHEHE 😼) 
-- ⚡ Fun fact: The term **Computer But** came from actual insect found inside the computer messing the system
+- ⚡ Fun fact: The term **Computer Bug** came from actual insect found inside the computer messing the system
 -->
