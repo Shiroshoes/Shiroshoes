@@ -1,6 +1,6 @@
 ## 👋 HELLO WORLD <img width="25" height="25" alt="icon" src="https://github.com/user-attachments/assets/fcd0c008-1406-494f-b86d-d6d33038a802" />
 
-My name is **Jeo-Criz Izzack E. Perdio**, a 📊 **Data Science Student** 🦠
+My name is **Jeo-Criz Izzack E. Perdio**, a 📊 **Data Science Student** 🦠  
 
 ---
 
@@ -14,23 +14,42 @@ My name is **Jeo-Criz Izzack E. Perdio**, a 📊 **Data Science Student** 🦠
 
 ---
 
-### 🛠️ Tech Stack
-💡 Here are the tools and technologies I’m learning/using:  
+### 🛠️ Tech Stack  
 
-- **Languages:** Python | C# | SQL | JavaScript | R  
-- **Interests:** Data Science | AI | Software Development  
+💡 Tools & languages I use (as **badges**):  
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiroshoes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiroshoes&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiroshoes&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shiroshoes&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+### 🌀 Fun Animation  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiroshoes&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiroshoes&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+### 🤝 Let’s Connect  
 - 📧 **Email:** jeocriz@gmail.com  
-- 🌐 **GitHub:** [github.com/jeocriz](https://github.com/jeocriz)
-- 📁 **Portfolio** soon
+- 🌐 **GitHub:** [github.com/jeocriz](https://github.com/jeocriz)  
+- 📁 **Portfolio:** *Coming Soon* 🚧  
