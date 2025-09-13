@@ -54,5 +54,5 @@
 
 ### 🤝 Let’s Connect  
 - 📧 **Email:** jeocriz@gmail.com  
-- 🌐 **GitHub:** [github.com/jeocriz](https://github.com/jeocriz)  
+- 🌐 **GitHub:** [github.com/jeocriz](https://github.com/Shiroshoes)  
 - 📁 **Portfolio:** *Coming Soon* 🚧  
