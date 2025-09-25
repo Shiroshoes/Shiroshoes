@@ -7,7 +7,7 @@
 
 <!-- Typing Animation Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=📊+Data+Science+Student;💻+AI+Enthusiast;⚡+Software+Developer;🌱+Lifelong+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&color=5389FF&background=20248048&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+Data+Science+Student;%F0%9F%92%BB+AI+Enthusiast;%E2%9A%A1+Software+Developer;%F0%9F%8C%B1+Lifelong+Learner" />
 </p>
 
 
