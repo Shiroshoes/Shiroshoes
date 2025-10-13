@@ -41,22 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats 
-
-<p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiroshoes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>   
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiroshoes&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiroshoes&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
-
----
-
 ### 🤝 Let’s Connect  
 - 📧 **Email:** jeocriz@gmail.com  
 - 🌐 **GitHub:** [github.com/jeocriz](https://github.com/Shiroshoes)  
