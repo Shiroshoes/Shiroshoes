@@ -13,18 +13,18 @@
 
 ---
 
-### 🌟 About Me  
+### About Me  
 - 🏫 Currently studying at **BPSU** as a **Data Science Student**
 - 🔭 Currently working on **Sumnotes** with my peers  
 - 🐕 Looking for help with **Mr. Peabody**  
-- 🗣️ Pronouns: **He (HEHEHEHEHE 😼)**  
+- 🗣️ Pronouns: **He (HEHEHEHEHE)**  
 - ⚡ Fun fact: The term *computer bug* came from an actual insect found inside a computer messing up the system!  
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 
-💡 Tools & languages I use:  
+ Tools & languages used:  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,7 +41,7 @@
 
 ---
 
-### 🤝 Let’s Connect  
-- 📧 **Email:** jeocriz@gmail.com  
-- 🌐 **GitHub:** [github.com/jeocriz](https://github.com/Shiroshoes)  
-- 📁 **Portfolio:** *Coming Soon* 🚧  
+### Let’s Connect  
+-  **Email:** jeocriz@gmail.com  
+-  **GitHub:** [github.com/jeocriz](https://github.com/Shiroshoes)  
+-  **Portfolio:** *Coming Soon* 🚧  
