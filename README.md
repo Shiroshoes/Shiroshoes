@@ -1,16 +1,6 @@
 ## 👋 HELLO WORLD <img width="25" height="25" alt="icon" src="https://github.com/user-attachments/assets/fcd0c008-1406-494f-b86d-d6d33038a802" />
-
-<!-- Stylish Wavy Banner with Name -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Jeo-Criz%20Izzack%20E.%20Perdio&fontSize=35&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Stylish Name Banner"/>
-</p>
-
-<!-- Typing Animation Tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&color=5389FF&background=20248048&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+Data+Science+Student;%F0%9F%92%BB+AI+Enthusiast;%E2%9A%A1+Software+Developer;%F0%9F%8C%B1+Lifelong+Learner" />
-</p>
-
-
+---
+## Jeo-Criz Izzack E. Perdio
 ---
 
 ### About Me  
