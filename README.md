@@ -9,7 +9,7 @@
 
 ### About Me  
 - 🏫 Currently studying at **BPSU** as a **Data Science Student**
-- 🔭 Currently working on **SumNotes Mobile App** with my peers  
+- 🔭 Currently working on **Novasight Website** with my peers  
 - 🐕 Looking for help with **Mr. Peabody**  
 - 🗣️ Pronouns: **He (HEHEHEHEHE)**  
 - ⚡ Fun fact: The term *computer bug* came from an actual insect found inside a computer messing up the system!  
