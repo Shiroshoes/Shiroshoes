@@ -5,7 +5,7 @@
     <h1>Jeo-Criz Izzack E. Perdio</h1>
   </strong>
 </p>
----
+
 
 ### About Me  
 - 🏫 Currently studying at **BPSU** as a **Data Science Student**
