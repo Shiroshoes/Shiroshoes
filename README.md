@@ -37,7 +37,7 @@ Tools & languages I use:
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
 </p>
 
-### 📊 Data Science Stack
+### Data Science Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
